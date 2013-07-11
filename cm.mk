@@ -16,7 +16,7 @@ $(call inherit-product, device/oppo/find5/full_find5.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := find5
-PRODUCT_NAME := cm_find5
+PRODUCT_NAME := poly_find5
 PRODUCT_BRAND := Oppo
 PRODUCT_MODEL := Find 5
 PRODUCT_MANUFACTURER := Oppo
